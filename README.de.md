@@ -12,7 +12,7 @@ Dafür habe ich Scope Quant gebaut. Die lokale Anwendung verbindet den Import hi
 
 *Das Instrument QSIM und alle gezeigten Kurse sind erfunden. Die Bilder stammen aus der laufenden Anwendung. Die Ergebnisse belegen keine Rentabilität am Markt.*
 
-[Bedienung als Video ansehen](assets/quant-walkthrough.mp4) · [Prüfergebnisse lesen](docs/VERIFICATION.md#deutsch) · [Zweiseitigen Berichtsauszug öffnen](assets/report-excerpt.pdf)
+[Aufzeichnung als MP4 herunterladen](assets/quant-walkthrough.mp4?raw=true) · [Prüfergebnisse lesen](docs/VERIFICATION.md#deutsch) · [Zweiseitigen Berichtsauszug öffnen](assets/report-excerpt.pdf)
 
 ## Eine Entscheidung im Zusammenhang sehen
 

@@ -12,7 +12,7 @@ Scope Quant is a working local application for that kind of investigation. It co
 
 *The fictional QSIM instrument and all prices shown here are synthetic. These are screenshots of the running application; the results are not evidence of trading profitability.*
 
-[Watch the walkthrough](assets/quant-walkthrough.mp4) · [Read the verification record](docs/VERIFICATION.md) · [Open the two-page report excerpt](assets/report-excerpt.pdf)
+[Download the walkthrough (MP4)](assets/quant-walkthrough.mp4?raw=true) · [Read the verification record](docs/VERIFICATION.md) · [Open the two-page report excerpt](assets/report-excerpt.pdf)
 
 ## A trade you can inspect
 
